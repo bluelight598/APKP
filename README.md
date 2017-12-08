@@ -1,11 +1,16 @@
 # APKP
 
->>  Nodejs Android APK包解析器
+>  Nodejs Android APK包解析器
+
+### 功能
 
 *   支持promise和callback
 *   支持osx和linux服务端
+*   aapt版本: `26.0.0`
 
-```
+
+```javascript
+
 let apkp = require('apkp')
 
 apkp(filePath).then(data => {
