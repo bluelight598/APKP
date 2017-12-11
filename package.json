@@ -1,6 +1,6 @@
 {
   "name": "apkp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Nodejs Android APK parser",
   "main": "lib/index.js",
   "directories": {
