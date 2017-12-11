@@ -1,6 +1,6 @@
 # APKP
 
->  Nodejs Android APK包解析器
+>  Nodejs Android APK包解析器, 获取manifest文件内容
 
 ### 功能
 
